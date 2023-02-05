@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Description
+This is a simple mini project that fetch users from an api (RANDOMUSERS API)
+
